@@ -4,9 +4,9 @@
 // that manipulates variables defined in the outer scope.
 // The outer scope can be a parent function, or the top level of the script.
 const miami = 'lifestyle';
-function returnLifestyleMiami () {
-  return miami;
-}
+  function returnLifestyleMiami () {
+    return miami;
+  }
 returnLifestyleMiami();
 
 console.log(returnLifestyleMiami);

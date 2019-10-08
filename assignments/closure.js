@@ -1,7 +1,7 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a closure of your own creation.
 // Keep it simple! Remember a closure is just a function
-// that manipulates variables defined in the outer scope.
+// that manipulates varia bles defined in the outer scope.
 // The outer scope can be a parent function, or the top level of the script.
 const miami = 'lifestyle';
   function returnLifestyleMiami () {

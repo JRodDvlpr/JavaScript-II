@@ -42,7 +42,7 @@ const items = ['Pencil', 'Notebook', 'yo-yo', 'Gum'];
 
 function getLength(arr, cb) {
   // getLength passes the length of the array into the callback.
-  return `There are ${arr.length} items in the array`;
+  return `There are ${arr.length} items`;
 };
 const length = getLength(items, getLength);
   console.log(length);

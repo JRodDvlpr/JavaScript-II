@@ -84,11 +84,11 @@ console.log(ticketPriceTotal);
 
 // Problem 1
 let lastName = [];
-runners.forEach(runner => lastName.push( ` ${runner.last_name}`));
+runners.forEach(runner => lastName.push(`${runner.last_name}`));
 console.log(lastName);
 // Problem 2
 let email = [];
-runners.forEach(runner => email.push( ` ${runner.email}`));
+runners.forEach(runner => email.push(`${runner.email}`));
 console.log(email);
 // Problem 3
 let companyName = [];

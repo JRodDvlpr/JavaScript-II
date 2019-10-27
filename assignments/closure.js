@@ -8,7 +8,7 @@ const miami = 'lifestyle';
     return miami;
   }
 
-console.log(LifestyleMiami);
+console.log(LifestyleMiami());
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
